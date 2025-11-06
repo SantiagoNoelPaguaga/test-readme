@@ -98,14 +98,16 @@ Ahora, se implementó un buscador por texto y un filtro por categorías (género
 Esta mejora hace la navegación mucho más dinámica e intuitiva.
 ![Directores después](https://github.com/user-attachments/assets/dce20656-66be-491f-b3df-b4f3281d0f57)
 
-## 🛠️ Mejora 3: Paginación del catálogo de películas
+## Mejora 3: Paginación para la API Externa
 
-**Descripción:**  
-Antes, todas las películas se cargaban en una sola vista, lo que hacía la página lenta y poco práctica.  
+**Descripción:**   
 Se implementó paginación con botones dinámicos para mejorar el rendimiento y la navegación.
 
-### 🔴 Antes
+### Antes
+Al final del TP2 la lista de películas se limitaba a los resultados de la página 1 de la API, lo que impedía al usuario consultar más contenido y hacía la navegación limitada.
 ![Paginación antes](https://github.com/user-attachments/assets/2b747ba9-1965-4b92-90bb-782330061a12)
 
-### 🟢 Después
+### Después
+Se añadió paginación con botones dinámicos (Anterior / Siguiente).  
+Esto mejora la experiencia y el rendimiento porque la interfaz carga solo la página necesaria en cada interacción.
 ![Paginación después](https://github.com/user-attachments/assets/21c13687-7f40-491d-8e53-2e0ac5346d86)
