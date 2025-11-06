@@ -28,6 +28,17 @@ Los elementos ahora aparecen con una animación tipo zoomInDown, generando un ef
 Al cambiar de entradas, las tarjetas se animan nuevamente, reforzando la sensación de interacción fluida.
 ![Bitácora después](https://github.com/user-attachments/assets/7f370549-37ee-4394-bdcc-5b47be008287)
 
+**Animación 3:**
+Aparición progresiva de los diagramas con efecto fadeIn
+
+### Antes
+Los diagramas aparecían de forma instantánea al cambiar entre uno y otro, sin ningún tipo de transición o animación.
+![Diagramas antes](https://github.com/user-attachments/assets/e9fbfd6d-961e-4194-95f3-228698b5fd2b)
+
+### Después
+Al cambiar de diagrama o cargar la sección, la imagen se muestra con una animación suave de aparición (fadeIn), lo que mejora la experiencia visual del usuario
+![Diagramas después](https://github.com/user-attachments/assets/626a6d1b-81ec-4d6f-ba52-f696658da1b6)
+
 ## 🛠️ Mejora 3: Paginación del catálogo de películas
 
 **Descripción:**  
