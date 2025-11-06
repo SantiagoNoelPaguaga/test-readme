@@ -111,3 +111,12 @@ Al final del TP2 la lista de películas se limitaba a los resultados de la pági
 Se añadió paginación con botones dinámicos (Anterior / Siguiente).  
 Esto mejora la experiencia y el rendimiento porque la interfaz carga solo la página necesaria en cada interacción.
 ![Paginación después](https://github.com/user-attachments/assets/21c13687-7f40-491d-8e53-2e0ac5346d86)
+
+## Mejora 4: Galería de Imágenes Interactiva
+
+**Descripción:**  
+En esta entrega se incorporó una galería de imágenes interactiva para la sección de Estrenos.  
+Al hacer clic sobre cualquiera de los pósters, se abre un lightbox con navegación entre imágenes, soporte para zoom y la posibilidad de cerrar tanto con un botón como presionando la tecla ESC.  
+Esta mejora brinda una experiencia más inmersiva e intuitiva, permitiendo explorar los estrenos de forma visual y moderna.  
+
+![Estrenos](https://github.com/user-attachments/assets/d3547e33-0449-4608-bc5d-34b3efaf23ac)
