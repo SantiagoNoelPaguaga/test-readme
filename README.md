@@ -50,6 +50,17 @@ Las tarjetas de directores aparecían de manera estática y simultánea, sin nin
 Ahora, al cargar la sección o aplicar un filtro, las tarjetas aparecen con una animación de entrada lateral (bounceInRight), aportando dinamismo y una sensación más fluida a la experiencia visual.
 ![Directores después](https://github.com/user-attachments/assets/3342fd7a-9c21-4759-bda8-c0030dec87fb)
 
+**Animación 5:**
+Aparición de las tarjetas de películas con efecto bounceInUp
+
+### Antes
+Las películas se mostraban instantáneamente al cargar la página o cambiar de filtro, sin ningún tipo de transición ni animación visual.
+![Películas antes](https://github.com/user-attachments/assets/e1428240-ef41-497b-882a-07be2cda1654)
+
+### Después
+Ahora, las tarjetas de películas aparecen suavemente desde abajo mediante el efecto bounceInUp, logrando una transición más fluida al cargar los resultados o al cambiar entre búsquedas y géneros.
+![Películas después](https://github.com/user-attachments/assets/4b38c798-729d-4a3d-a981-2ec8b6624ee0)
+
 ## 🛠️ Mejora 3: Paginación del catálogo de películas
 
 **Descripción:**  
