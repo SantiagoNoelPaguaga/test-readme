@@ -75,6 +75,13 @@ Las películas se mostraban instantáneamente al cargar la página o cambiar de 
 Ahora, las tarjetas de películas aparecen suavemente desde abajo mediante el efecto bounceInUp, logrando una transición más fluida al cargar los resultados o al cambiar entre búsquedas y géneros.
 ![Películas después](https://github.com/user-attachments/assets/4b38c798-729d-4a3d-a981-2ec8b6624ee0)
 
+**Animación 7:**
+Aparición de los pósters de estrenos con efecto bounceInUp
+
+### Nueva implementación
+En esta entrega se incorporó la nueva sección Estrenos, ausente en el trabajo anterior.
+Se muestran con una animación bounceInUp, la misma utilizada en la sección de Películas, este efecto genera una entrada suave desde la parte inferior, transmitiendo dinamismo y manteniendo coherencia visual con el resto del sitio.
+![Estrenos](https://github.com/user-attachments/assets/7ed1d16a-5254-4c59-b042-190d26d08fc8)
 
 ## 🛠️ Mejora 3: Paginación del catálogo de películas
 
