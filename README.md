@@ -1,3 +1,5 @@
+### Listado de Mejoras
+
 ## Mejora 1: Mejora de la Interfaz: Animaciones Suaves
 
 **Descripción:**  
@@ -5,15 +7,15 @@ Se incorporaron animaciones visuales con Animate.css para mejorar la experiencia
 Estas animaciones se aplican a títulos y elementos destacados del sitio, generando una sensación de dinamismo y modernidad en la interfaz.
 
 **Animación 1:**
-Aparición del título con efecto fadeInDown 
+Deslizamiento lateral del menú (Sidebar) con efecto slideInLeft
 
 ### Antes
-El título aparecía de forma estática, sin ningún tipo de animación o transición visual.
-![Títulos antes](https://github.com/user-attachments/assets/cad9e0cb-50c2-4466-9943-d61840c47d07)
+El menú lateral (sidebar) aparecía de forma instantánea, sin ninguna animación.
+![Sidebar antes](https://github.com/user-attachments/assets/338b2eb1-c18b-4992-a217-0dc61663aef1)
 
 ### Después
-El título ahora se muestra con un efecto de entrada suave desde arriba (fadeInDown) al cargar la sección.
-![Títulos después](https://github.com/user-attachments/assets/8b332370-0a9d-438e-a757-f446928f2cc7)
+Ahora, cuando se despliega el sidebar, los elementos del menú aparecen con un efecto slideInLeft.
+![Sidebar después](https://github.com/user-attachments/assets/6ad65af6-595c-494f-b499-5b559a52e97f)
 
 **Animación 2:**
 Aparición de los elementos de la bitácora con efecto zoomInDown 
@@ -29,6 +31,18 @@ Al cambiar de entradas, las tarjetas se animan nuevamente, reforzando la sensaci
 ![Bitácora después](https://github.com/user-attachments/assets/7f370549-37ee-4394-bdcc-5b47be008287)
 
 **Animación 3:**
+Aparición del título con efecto fadeInDown 
+
+### Antes
+El título aparecía de forma estática, sin ningún tipo de animación o transición visual.
+![Títulos antes](https://github.com/user-attachments/assets/cad9e0cb-50c2-4466-9943-d61840c47d07)
+
+### Después
+El título ahora se muestra con un efecto de entrada suave desde arriba (fadeInDown) al cargar la sección.
+![Títulos después](https://github.com/user-attachments/assets/8b332370-0a9d-438e-a757-f446928f2cc7)
+
+
+**Animación 4:**
 Aparición progresiva de los diagramas con efecto fadeIn
 
 ### Antes
@@ -39,7 +53,7 @@ Los diagramas aparecían de forma instantánea al cambiar entre uno y otro, sin 
 Al cambiar de diagrama o cargar la sección, la imagen se muestra con una animación suave de aparición (fadeIn), lo que mejora la experiencia visual del usuario.
 ![Diagramas después](https://github.com/user-attachments/assets/626a6d1b-81ec-4d6f-ba52-f696658da1b6)
 
-**Animación 4:**
+**Animación 5:**
 Aparición lateral de las tarjetas de directores con efecto bounceInRight
 
 ### Antes
@@ -50,7 +64,7 @@ Las tarjetas de directores aparecían de manera estática y simultánea, sin nin
 Ahora, al cargar la sección o aplicar un filtro, las tarjetas aparecen con una animación de entrada lateral (bounceInRight), aportando dinamismo y una sensación más fluida a la experiencia visual.
 ![Directores después](https://github.com/user-attachments/assets/3342fd7a-9c21-4759-bda8-c0030dec87fb)
 
-**Animación 5:**
+**Animación 6:**
 Aparición de las tarjetas de películas con efecto bounceInUp
 
 ### Antes
@@ -60,6 +74,7 @@ Las películas se mostraban instantáneamente al cargar la página o cambiar de 
 ### Después
 Ahora, las tarjetas de películas aparecen suavemente desde abajo mediante el efecto bounceInUp, logrando una transición más fluida al cargar los resultados o al cambiar entre búsquedas y géneros.
 ![Películas después](https://github.com/user-attachments/assets/4b38c798-729d-4a3d-a981-2ec8b6624ee0)
+
 
 ## 🛠️ Mejora 3: Paginación del catálogo de películas
 
