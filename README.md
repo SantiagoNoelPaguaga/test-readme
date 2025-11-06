@@ -1,4 +1,4 @@
-### Listado de Mejoras
+# Listado de Mejoras
 
 ## Mejora 1: Mejora de la Interfaz: Animaciones Suaves
 
