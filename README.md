@@ -1,4 +1,4 @@
-## 🛠️ Mejora 1: Mejora de la Interfaz: Animaciones Suaves
+## Mejora 1: Mejora de la Interfaz: Animaciones Suaves
 
 **Descripción:**  
 Se incorporaron animaciones visuales con Animate.css para mejorar la experiencia del usuario y hacer las transiciones entre secciones más fluidas y atractivas.
@@ -7,13 +7,26 @@ Estas animaciones se aplican a títulos y elementos destacados del sitio, genera
 **Animación 1:**
 Aparición del título con efecto fadeInDown 
 
-### 🔴 Antes
+### Antes
 El título aparecía de forma estática, sin ningún tipo de animación o transición visual.
-![Paginación antes](https://github.com/user-attachments/assets/cad9e0cb-50c2-4466-9943-d61840c47d07)
+![Títulos antes](https://github.com/user-attachments/assets/cad9e0cb-50c2-4466-9943-d61840c47d07)
 
-### 🟢 Después
+### Después
 El título ahora se muestra con un efecto de entrada suave desde arriba (fadeInDown) al cargar la sección.
-![Paginación después](https://github.com/user-attachments/assets/8b332370-0a9d-438e-a757-f446928f2cc7)
+![Títulos después](https://github.com/user-attachments/assets/8b332370-0a9d-438e-a757-f446928f2cc7)
+
+**Animación 2:**
+Aparición de los elementos de la bitácora con efecto zoomInDown 
+
+### Antes
+Los elementos de la bitácora aparecían todos al instante, sin ningún tipo de animación.
+La transición entre las distintas entradas era brusca y no ofrecía una sensación visual fluida.
+![Bitácora antes](https://github.com/user-attachments/assets/42611d92-4a89-409d-8bc8-8362aa095cde)
+
+### Después
+Los elementos ahora aparecen con una animación tipo zoomInDown, generando un efecto visual más dinámico y agradable.
+Al cambiar de entradas, las tarjetas se animan nuevamente, reforzando la sensación de interacción fluida.
+![Bitácora después](https://github.com/user-attachments/assets/7f370549-37ee-4394-bdcc-5b47be008287)
 
 ## 🛠️ Mejora 3: Paginación del catálogo de películas
 
