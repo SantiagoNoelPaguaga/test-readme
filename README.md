@@ -83,6 +83,21 @@ En esta entrega se incorporó la nueva sección Estrenos, ausente en el trabajo 
 Se muestran con una animación bounceInUp, la misma utilizada en la sección de Películas, este efecto genera una entrada suave desde la parte inferior, transmitiendo dinamismo y manteniendo coherencia visual con el resto del sitio.
 ![Estrenos](https://github.com/user-attachments/assets/7ed1d16a-5254-4c59-b042-190d26d08fc8)
 
+## Mejora 2: Búsqueda/Filtrado en JSON Local
+
+**Descripción:**  
+Implementación de búsqueda por texto y filtrado por categoría en JSON local
+
+### Antes
+La sección de Directores mostraba todos los registros del archivo directors-data.json sin permitir ningún tipo de filtrado o búsqueda.
+Esto hacía que el usuario tuviera que desplazarse manualmente por toda la lista para encontrar un director específico.
+![Directores antes](https://github.com/user-attachments/assets/7f306bd0-c074-4df4-82d8-e251c59831b9)
+
+### Después
+Ahora, se implementó un buscador por texto y un filtro por categorías (géneros) que permite al usuario localizar rápidamente a un director en función de su nombre o del tipo de películas por las que es conocido.
+Esta mejora hace la navegación mucho más dinámica e intuitiva.
+![Directores después](https://github.com/user-attachments/assets/dce20656-66be-491f-b3df-b4f3281d0f57)
+
 ## 🛠️ Mejora 3: Paginación del catálogo de películas
 
 **Descripción:**  
