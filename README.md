@@ -36,8 +36,19 @@ Los diagramas aparecían de forma instantánea al cambiar entre uno y otro, sin 
 ![Diagramas antes](https://github.com/user-attachments/assets/e9fbfd6d-961e-4194-95f3-228698b5fd2b)
 
 ### Después
-Al cambiar de diagrama o cargar la sección, la imagen se muestra con una animación suave de aparición (fadeIn), lo que mejora la experiencia visual del usuario
+Al cambiar de diagrama o cargar la sección, la imagen se muestra con una animación suave de aparición (fadeIn), lo que mejora la experiencia visual del usuario.
 ![Diagramas después](https://github.com/user-attachments/assets/626a6d1b-81ec-4d6f-ba52-f696658da1b6)
+
+**Animación 4:**
+Aparición lateral de las tarjetas de directores con efecto bounceInRight
+
+### Antes
+Las tarjetas de directores aparecían de manera estática y simultánea, sin ningún tipo de animación o transición visual al cargar o filtrar resultados.
+![Directores antes](https://github.com/user-attachments/assets/e8af7d5d-13d6-45ba-b3d2-96381d43865d)
+
+### Después
+Ahora, al cargar la sección o aplicar un filtro, las tarjetas aparecen con una animación de entrada lateral (bounceInRight), aportando dinamismo y una sensación más fluida a la experiencia visual.
+![Directores después](https://github.com/user-attachments/assets/3342fd7a-9c21-4759-bda8-c0030dec87fb)
 
 ## 🛠️ Mejora 3: Paginación del catálogo de películas
 
