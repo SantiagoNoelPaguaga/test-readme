@@ -120,3 +120,28 @@ Al hacer clic sobre cualquiera de los pósters, se abre un lightbox con navegaci
 Esta mejora brinda una experiencia más inmersiva e intuitiva, permitiendo explorar los estrenos de forma visual y moderna.  
 
 ![Estrenos](https://github.com/user-attachments/assets/d3547e33-0449-4608-bc5d-34b3efaf23ac)
+
+## Mejora 5: Barras de Progreso de Habilidades
+
+**Descripción:**  
+Se añadieron barras de progreso animadas que representan visualmente el nivel de cada habilidad dentro de los perfiles de los integrantes.  
+
+### Antes
+En la entrega anterior, los perfiles mostraban únicamente una lista estática de habilidades sin ningún tipo de indicador visual o animación.
+Esto hacía difícil percibir el nivel de dominio de cada habilidad.
+  
+**Tarjeta Ávalos:**  
+![Habilidades antes Ávalos](https://github.com/user-attachments/assets/0e7f627f-9fae-43a5-8cef-1741b78bccff)
+
+**Tarjeta Paguaga:**  
+![Habilidades antes Paguaga](https://github.com/user-attachments/assets/a402b0fc-8a99-4d64-9266-fc416664f9cb)
+
+### Después
+Ahora, las habilidades se representan con barras de progreso animadas, transmitiendo de forma clara y visual el nivel de competencia de cada integrante.  
+
+**Tarjeta Ávalos:**  
+![Habilidades después Ávalos](https://github.com/user-attachments/assets/bebc0909-6f92-4483-a058-599dca82aee0)
+
+**Tarjeta Paguaga:**  
+![Habilidades después Paguaga](https://github.com/user-attachments/assets/964ae710-d15b-4908-bb95-e67fb7b10a02)
+
